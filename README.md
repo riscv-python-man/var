@@ -1,0 +1,2 @@
+# var
+some classic example
